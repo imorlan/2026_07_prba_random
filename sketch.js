@@ -12,7 +12,7 @@ function setup() {
   background(0);
   noStroke();
 
-  // Semilla basada en el momento actual
+  // Semilla basada en la hora actual
   randomSeed(Date.now()); // milisegundos desde 1970
 }
 
